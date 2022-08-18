@@ -1,2 +1,2 @@
 # redim
-Redis image buffering and transferring
+Redis image buffer and transferring
